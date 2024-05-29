@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rnweaverx
-- 👀 I’m interested in ...This repository is for practising the GitHub Flow
-- 🌱 I’m currently learning ...coding
+- 👀 I’m interested in ...This repository is for practicing the GitHub Flow
+- 🌱 I’m currently learning ...intro to coding
 - 💞️ I’m looking to collaborate on ... projects for progression
 - 📫 How to reach me ...rnweaverx@gmail.com
 - 😄 Pronouns: ...she/her
